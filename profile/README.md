@@ -3,15 +3,15 @@
 Project BioSense-AI is a both software - hardware project focusing on predicting diseases using ECG-PPG, temperature, and text prompts. Signals are amplified and filtered via custom analog circuits, then fed to Orange Pi Zero 2W SBC from an A2D conversion to digital processing. The system uses a deep learning custom multi-model architecture with interpretability for accuracy and efficiency. Currently, we are developing a mobile app for user access to the AI model by scanning ECG reports and other prompts for hospitals without our electronic device.
 
 > Specifications:
-✅ Analog circuit design for capturing ECG signals.
-✅ Rechargeable pocket size Electronic device.
-✅Connects to the Mobile app to display ECG signals and prediction reports.
-✅Classification and predictions of Lung Sounds (by stethoscope mic);
+- Analog circuit design for capturing ECG signals.
+- Rechargeable pocket size Electronic device.
+- Connects to the Mobile app to display ECG signals and prediction reports.
+- Classification and predictions of Lung Sounds (by stethoscope mic);
 Asthma, heart failure, pneumonia, bronchitis, pleural effusion, lung
 fibrosis, and chronic obstructive pulmonary disease (COPD)
-✅Classification and predictions of heart sounds (by stethoscope mic);
+- Classification and predictions of heart sounds (by stethoscope mic);
 Artefact, extra heart sound, extrasystole, murmur, and normal.
-✅Classification and predictions of ECG; -N: Non-exotic beats (normal
+- Classification and predictions of ECG; -N: Non-exotic beats (normal
 beat)
 Supraventricular ectopic beats, Ventricular ectopic beats, Fusion Beats,
 Unknown Beats
