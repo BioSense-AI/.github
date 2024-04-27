@@ -1,0 +1,4 @@
+**BioSense-AI** is a comprehensive project that seamlessly blends software and hardware to predict diseases using body signals such as ECG-PPG, temperature, and text prompts. The project utilizes custom-designed analog circuits for amplifying and filtering signals. After Analog-to-Digital (A2D) conversion, these signals are fed into an Orange Pi Zero 2W Single Board Computer (SBC) for further processing. A standout feature of BioSense-AI is its custom multi-model architecture with interpretability, designed for enhanced accuracy and efficiency. Currently, the team is developing a mobile app to provide access to this multi-model architecture. This will enable people to gain insights just by scanning their ECG reports and other text prompts, even without the need for the pocket-sized electronic device. This project represents a significant stride in making advanced health predictions accessible and user-friendly.
+
+
+
