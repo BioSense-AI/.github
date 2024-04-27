@@ -1,4 +1,4 @@
-"Pocket-size electronic device with a Mobile app to display and analyze Body signals with a Multi-Model 🩺" 
+"Pocket-size electronic device with a Mobile app to display and analyze Body signals with a deep learning based interpretabile Multi-Model 🩺" 
 
 Project BioSense-AI is a both software - hardware project focusing on predicting diseases using ECG-PPG, temperature, and text prompts. Signals are amplified and filtered via custom analog circuits, then fed to Orange Pi Zero 2W SBC from an A2D conversion to digital processing. The system uses a deep learning custom multi-model architecture with interpretability for accuracy and efficiency. Currently, we are developing a mobile app for user access to the AI model by scanning ECG reports and other prompts for hospitals without our electronic device.
 
